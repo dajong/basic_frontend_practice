@@ -1,1 +1,1 @@
-# basic_frontend_practice
+# Basic HTML/CSS/JS practice repo
